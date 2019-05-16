@@ -126,8 +126,9 @@ conflict_df.head()
 # We define an agent as a composite label encompassing an actor's
 # country of origin and the actor category.
 # This is to ensure that the network has the same amount of nodes
-# all_realised_conflicts = conflict_df.pipe(create_agents)\
-#     .pipe(get_month)
+# %%
+all_realised_conflicts = conflict_df.pipe(create_agents)\
+    .pipe(get_month)
 # %%
 all_realised_conflicts.head()
 # %% [markdown]
