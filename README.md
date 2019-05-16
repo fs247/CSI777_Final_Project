@@ -6,7 +6,7 @@ Location & Event Data Project and turning it into several "Conflict"
 Undirected Graphs/Networks.
 
 ## Navigation
-First view notebook_feature_engineering.ipynb then notebook_modelling.ipynb <br>
+First view **notebook_feature_engineering.ipynb** then **notebook_modelling.ipynb** <br>
 Code is available as a python executable as well, but you must source the data first
 
 ## Todo
