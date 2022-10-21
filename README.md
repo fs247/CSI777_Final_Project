@@ -10,5 +10,8 @@ First view **notebook_feature_engineering.ipynb** then **notebook_modelling.ipyn
 Code is available as a python executable as well, but you must source the data first
 
 ## Todo
-Dockerize + Condaize this project
+-Add other countries to data (Iran and what else?)
+-Prepare proposal
+-Work on final project ppt
+-Work on individual notebooks to then consolidate
 
